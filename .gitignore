@@ -1,0 +1,56 @@
+# 🔹 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
+*.temp
+
+# 🔹 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🔹 IDE / Editor
+.vscode/
+.idea/
+
+# 🔹 Git
+.git/
+
+# 🔹 Your project-specific (VERY IMPORTANT)
+
+# Downloaded files
+downloads/
+
+# Shared large files (optional - remove if you want to track them)
+shared/
+
+# Manifest files (resume metadata)
+*.meta
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.zip
+*.pdf
+
+# 🔹 Node (if Gemini installed via npm)
+node_modules/
